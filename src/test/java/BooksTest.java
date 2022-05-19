@@ -4,12 +4,12 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class BooksTest {
 
-//    Day 59 testing
-//    @Test
-//    void getTitle() {
-//        Books book = new Books("Gone with the Wind");
-//        assertEquals("Gone with the Wind", book.getTitle());
-//    }
+    Day 59 testing
+    @Test
+    void getTitle() {
+        Books book = new Books("Gone with the Wind");
+        assertEquals("Gone with the Wind", book.getTitle());
+    }
 
     @Test
     void getPageNum() {
